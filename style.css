@@ -1,6 +1,10 @@
-header{
-    height: 400px;
-    width: 1440px;
-    background-color: #000000;
-    color: azure;
+body{
+    
+    background-color: rgb(42, 38, 38);
+    
+
+}
+.header{
+    text-align: center;
+    justify-content: center;
 }
